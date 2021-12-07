@@ -4,9 +4,6 @@ You can view [LinkedIn profile](https://www.linkedin.com/in/jamilchowdhury/) to 
 
 I am currently looking for full-time employment, this website has my resume included in the content, looking into world of Finance 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 EXPERIENCE 
