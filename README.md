@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Jamil Chowdhury
 
-You can use the [editor on GitHub](https://github.com/jamilc1/jamilc1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can view [LinkedIn profile](https://www.linkedin.com/in/jamilchowdhury/) to view my current, up-to-date resume.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently looking for full-time employment, this website has my resume included in the content, looking into world of Finance 
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+EXPERIENCE 
+Patient Access Representative Jan. 2021 – July 2021 
+Atlantic Health System | Morristown, NJ 
+• Checked Patients into Morris County COVID vaccination megasite 
+• Ensured data accuracy & verified insurance coverage via EPIC Electronic Medical Records 
+• Trained new hires
 
-# Header 1
-## Header 2
-### Header 3
+Contact Tracer Sept. 2020 - Oct. 2020 
+Partners in Health / EL 37 Agency | Elizabeth, NJ 
+• Contacted Persons under investigation to inform them of potential contact of COVID-19. 
+• Provided up-to-date information in accordance to New Jersey Department of Health & CDC 
+guidelines to reduce potential exposure to community. 
+• Coordinated / escalated cases if necessary. 
 
-- Bulleted
-- List
+Enumerator Aug. 2020 - Sept. 2020 
+U.S. Census Bureau | Union County, NJ 
+• Contacted Nonresponse households for 2020 U.S. Census for in-person interviews / follow-up 
+interviews. 
 
-1. Numbered
-2. List
+Owner/Operator Nov. 2018 - Nov. 2019 
+JJ IMPORTS LLC | Elizabeth, NJ 
+• Owner & Operator of online boutique store carrying wide range of personal hygiene products. 
+• Fulfilling orders, bookkeeping via QuickBooks, shipping, maintaining website, Sql/MySQL data 
+retrieval, advertising campaigns, website optimization (desktop and mobile) and customer service. 
+ 
+Manager Jul. 2013 - Mar. 2020 
+Jessica’s Giftshop | Elizabeth, NJ 
+• Operated small retail boutique store; duties included sales, inventory, book keeping, analyzing 
+consumer trends and operations, and maintaining relationships.
+ 
+EDUCATION 
+Bachelor of Arts |Sociology | December 2017 | Rutgers University, The State University of New Jersey 
+ 
+SKILLS 
+Project Management | Cross-Functional Communication | Business Development | Microsoft Office | 
+SQL 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I am able to work as a registered financial representatives even though Census Bureau operates under Department of Treasury!
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamilc1/jamilc1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
