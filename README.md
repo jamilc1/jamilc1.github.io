@@ -43,5 +43,5 @@ SKILLS
 Project Management | Cross-Functional Communication | Business Development | Microsoft Office | 
 SQL 
 
-I am able to work as a registered financial representatives even though Census Bureau operates under Department of Treasury!
+I am able to work as a registered financial representative even though Census Bureau operates under Department of Treasury!
 ```
