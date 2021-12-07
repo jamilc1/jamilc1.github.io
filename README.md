@@ -2,7 +2,7 @@
 
 You can view [LinkedIn profile](https://www.linkedin.com/in/jamilchowdhury/) to view my current, up-to-date resume.
 
-I am currently looking for full-time employment, this website has my resume included in the content
+I am currently looking for full-time employment, this website has my resume included in the content.
 
 
 ```markdown
