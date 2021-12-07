@@ -4,8 +4,6 @@ You can view [LinkedIn profile](https://www.linkedin.com/in/jamilchowdhury/) to 
 
 I am currently looking for full-time employment, this website has my resume included in the content.
 
-
-```markdown
 EXPERIENCE 
 Patient Access Representative Jan. 2021 – July 2021 
 Atlantic Health System | Morristown, NJ 
@@ -44,4 +42,4 @@ Project Management | Cross-Functional Communication | Business Development | Mic
 SQL 
 
 I am able to work as a registered financial representative even though Census Bureau operates under Department of Treasury!
-```
+
