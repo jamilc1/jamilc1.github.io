@@ -4,7 +4,8 @@ You can view [LinkedIn profile](https://www.linkedin.com/in/jamilchowdhury/) to 
 
 I am currently looking for full-time employment, this website has my resume included in the content.
 
-EXPERIENCE 
+EXPERIENCE
+
 Patient Access Representative Jan. 2021 – July 2021 
 Atlantic Health System | Morristown, NJ 
 
