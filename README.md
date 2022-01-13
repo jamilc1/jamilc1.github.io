@@ -11,14 +11,18 @@ Conduent | Somerset, NJ
 
 •Performs business support or technical work, using data organizing and coordination skills
 Evaluates and selects solutions from established operating procedures
+
 •Captures and validates more complex data
+
 •Pre-adjudicates documents and corrects data
 
 Patient Access Representative Jan. 2021 – July 2021 
 Atlantic Health System | Morristown, NJ 
 
 • Checked Patients into Morris County COVID vaccination megasite 
+
 • Ensured data accuracy & verified insurance coverage via EPIC Electronic Medical Records 
+
 • Trained new hires
 
 Contact Tracer Sept. 2020 - Oct. 2020 
