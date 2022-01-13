@@ -6,6 +6,14 @@ I am currently looking for full-time employment, this website has my resume incl
 
 EXPERIENCE
 
+Transaction Processing Associate II Jan 2022 - Present 
+Conduent | Somerset, NJ
+
+•Performs business support or technical work, using data organizing and coordination skills
+Evaluates and selects solutions from established operating procedures
+•Captures and validates more complex data
+•Pre-adjudicates documents and corrects data
+
 Patient Access Representative Jan. 2021 – July 2021 
 Atlantic Health System | Morristown, NJ 
 
