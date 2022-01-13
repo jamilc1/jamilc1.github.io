@@ -29,8 +29,10 @@ Contact Tracer Sept. 2020 - Oct. 2020
 Partners in Health / EL 37 Agency | Elizabeth, NJ 
 
 • Contacted Persons under investigation to inform them of potential contact of COVID-19. 
+
 • Provided up-to-date information in accordance to New Jersey Department of Health & CDC 
 guidelines to reduce potential exposure to community. 
+
 • Coordinated / escalated cases if necessary. 
 
 Enumerator Aug. 2020 - Sept. 2020 
@@ -43,6 +45,7 @@ Owner/Operator Nov. 2018 - Nov. 2019
 JJ IMPORTS LLC | Elizabeth, NJ 
 
 • Owner & Operator of online boutique store carrying wide range of personal hygiene products. 
+
 • Fulfilling orders, bookkeeping via QuickBooks, shipping, maintaining website, Sql/MySQL data 
 retrieval, advertising campaigns, website optimization (desktop and mobile) and customer service. 
  
