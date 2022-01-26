@@ -6,8 +6,8 @@ I am currently looking for full-time employment, this website has my resume incl
 
 EXPERIENCE
 
-<strong>Transaction Processing Associate II Jan 2022 - Present 
-Conduent | Somerset, NJ</strong?
+Transaction Processing Associate II Jan 2022 - Present 
+Conduent | Somerset, NJ
 
 •Performs business support or technical work, using data organizing and coordination skills
 Evaluates and selects solutions from established operating procedures
@@ -16,8 +16,9 @@ Evaluates and selects solutions from established operating procedures
 
 •Pre-adjudicates documents and corrects data
 
-<strong>Patient Access Representative Jan. 2021 – July 2021 
-Atlantic Health System | Morristown, NJ</Strong> 
+
+Patient Access Representative Jan. 2021 – July 2021 
+Atlantic Health System | Morristown, NJ 
 
 • Checked Patients into Morris County COVID vaccination megasite 
 
@@ -25,8 +26,9 @@ Atlantic Health System | Morristown, NJ</Strong>
 
 • Trained new hires
 
-<strong>Contact Tracer Sept. 2020 - Oct. 2020 
-Partners in Health / EL 37 Agency | Elizabeth, NJ</strong? 
+
+Contact Tracer Sept. 2020 - Oct. 2020 
+Partners in Health / EL 37 Agency | Elizabeth, NJ
 
 • Contacted Persons under investigation to inform them of potential contact of COVID-19. 
 
@@ -35,15 +37,17 @@ guidelines to reduce potential exposure to community.
 
 • Coordinated / escalated cases if necessary. 
 
-<strong>Enumerator Aug. 2020 - Sept. 2020 
- U.S. Census Bureau | Union County, NJ</strong> 
+
+Enumerator Aug. 2020 - Sept. 2020 
+ U.S. Census Bureau | Union County, NJ
 
 • Contacted Nonresponse households for 2020 U.S. Census for in-person interviews / follow-up 
-interviews. 
+interviews.
 
-<strong>Owner/Operator Nov. 2018 - Nov. 2019 
-JJ IMPORTS LLC | Elizabeth, NJ</strong> 
 
+Owner/Operator Nov. 2018 - Nov. 2019 
+JJ IMPORTS LLC | Elizabeth, NJ
+ 
 • Owner & Operator of online boutique store carrying wide range of personal hygiene products. 
 
 • Fulfilling orders, bookkeeping via QuickBooks, shipping, maintaining website, Sql/MySQL data 
