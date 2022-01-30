@@ -64,7 +64,7 @@ Bachelor of Arts |Sociology | December 2017 | Rutgers University, The State Univ
  
 SKILLS 
 Project Management | Cross-Functional Communication | Business Development | Microsoft Office | 
-SQL 
+SQL | Pharmaceutical Regulations | Lean Six Sigma
 
 
 
