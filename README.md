@@ -24,6 +24,8 @@ Atlantic Health System | Morristown, NJ</strong>
 
 • Ensured data accuracy & verified insurance coverage via EPIC Electronic Medical Records 
 
+• Reduced average handling-time by 70%
+
 • Trained new hires
 
 
