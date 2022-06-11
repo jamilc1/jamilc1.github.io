@@ -2,11 +2,37 @@
 
 You can view [LinkedIn profile](https://www.linkedin.com/in/jamilchowdhury/) to view my current, up-to-date resume.
 
-I am currently looking for full-time employment, this website has my resume included in the content.
 
 EXPERIENCE
 
-<strong>Transaction Processing Associate II Jan 2022 - Present 
+<strong>Analyst, Client Services May 2022 - Present
+ Knipper Health | Somerset, NJ</strong>
+ 
+• Maintain productivity and efficency for client programs while ensuring all work is completed accurately and within the finfines of Statement of Work, client 
+Business rules, internal Statandard Operating Requirements and PDMA regulations 
+
+•Create and Update client training materials for field personnels as required and develop and update client BRD
+
+•Create Job Numbers as directed by Account Manager and/or Program Manager
+
+•Generate QC sample reconciliation for sales representatives covering periods specified in client business rules 
+
+•Monitor and review all transactional and form rejects, exceptions and errors. Coordinate necessary corrective actions with sales representative, and issue 
+program instructions to external PDMA auditors in adherence with client business rules. 
+
+•Report compliance-related issues in timely manner to the client contact, internal regulatory and compliance department following FDA schedule
+
+•Supervise and monitor monthly signature audit process and develop analytical tools to bring compliance to the client
+
+•Work with client to develop metrics for trending purposes to detect possible drug diversion, significant loss of drug samples, and Salesforce training
+opportunities
+
+•Prepare/run client reports, ensure accuracy of regulatory/all reports, initiate internal quality events and provide necessary and timely follow-up
+
+•Create and participate in client business review presenation
+
+
+<strong>Transaction Processing Associate II Jan 2022 - May 2022
 Conduent | Somerset, NJ</strong>
 
 •Performs business support or technical work, using data organizing and coordination skills
