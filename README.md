@@ -9,7 +9,7 @@ EXPERIENCE
  Knipper Health | Somerset, NJ</strong>
  
 • Maintain productivity and efficency for client programs while ensuring all work is completed accurately and within the finfines of Statement of Work, client 
-Business rules, internal Statandard Operating Requirements and PDMA regulations 
+Business rules, internal Statandard Operating Requirements, U.S. Title 21 CFR Part 11 Regulation, and  PDMA regulations 
 
 •Create and Update client training materials for field personnels as required and develop and update client BRD
 
@@ -30,6 +30,15 @@ opportunities
 •Prepare/run client reports, ensure accuracy of regulatory/all reports, initiate internal quality events and provide necessary and timely follow-up
 
 •Create and participate in client business review presenation
+
+• Manage operations Sample Accountability (hand carry) operations and Direct-to-Practitioner (DTP) programs for 7 major pharmaceutical clients, RX, OTC, and devices
+
+• Identify, pitched and implemented new program; estimated new potential revenue $153k
+
+• Analyze existing SQL queries for performance improvements
+
+• Provide timely scheduled management reporting
+
 
 
 <strong>Transaction Processing Associate II Jan 2022 - May 2022
