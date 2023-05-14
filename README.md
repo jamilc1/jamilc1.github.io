@@ -1,6 +1,6 @@
 ## Jamil Chowdhury
 
-You can view [LinkedIn profile](https://www.linkedin.com/in/jamilchowdhury/) to view my current, up-to-date resume.
+You can view my [LinkedIn profile](https://www.linkedin.com/in/jamilchowdhury/) to view my current, up-to-date resume.
 
 
 EXPERIENCE
@@ -38,7 +38,6 @@ opportunities
 • Analyze existing SQL queries for performance improvements
 
 • Provide timely scheduled management reporting
-
 
 
 <strong>Transaction Processing Associate II Jan 2022 - May 2022
