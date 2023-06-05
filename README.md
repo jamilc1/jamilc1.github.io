@@ -39,6 +39,7 @@ opportunities
 
 • Provide timely scheduled management reporting
 
+• Investigate exceptions within Salesforce and Veeva/Veeva Vault
 
 <strong>Transaction Processing Associate II Jan 2022 - May 2022
 Conduent | Somerset, NJ</strong>
