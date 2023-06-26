@@ -9,18 +9,31 @@ EXPERIENCE
  Knipper Health | Somerset, NJ</strong>
  
 • Create and update client training materials for field personnel as required and develop and update client BRD
+
 • Create and update Operational Work Instructions (OWIs)
+
 • Adherence to Corporate Integrity Agreements (CIA) and Statement of Work (SOW)
+
 • Generate and QC sample reconciliations for sales representatives
+
 • Coordinate 3rd party field audits for sales representatives and issue program instructions to external PDMA auditors
+
 • Work with the client(s) to develop metrics for trending purposes to detect possible diversion, significant loss
+
 • Manage Sample Accountability (hand carry) operations and Direct-to-Practitioner (DTP) programs supporting commercial operations and market access for sample distribution
+
 • Identify, pitched and implemented new program; estimated new potential revenue $153k
+
 • Analyze existing SQL queries for performance improvements
+
 • Provide timely scheduled management reporting
+
 • Participate in management of MDM system, monitor field requests, and home office requests
+
 • CRM / Salesforce and Veeva data mapping of rosters, target HCP, new NDC setup
+
 • First level support for field representatives
+
 • Investigate exceptions within Salesforce and Veeva/Veeva Vault
 
 
