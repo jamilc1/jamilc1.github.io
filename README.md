@@ -8,38 +8,21 @@ EXPERIENCE
 <strong>Analyst, Client Services May 2022 - Present
  Knipper Health | Somerset, NJ</strong>
  
-• Maintain productivity and efficency for client programs while ensuring all work is completed accurately and within the finfines of Statement of Work, client 
-Business rules, internal Statandard Operating Requirements, U.S. Title 21 CFR Part 11 Regulation, and  PDMA regulations 
-
-•Create and Update client training materials for field personnels as required and develop and update client BRD
-
-•Create Job Numbers as directed by Account Manager and/or Program Manager
-
-•Generate QC sample reconciliation for sales representatives covering periods specified in client business rules 
-
-•Monitor and review all transactional and form rejects, exceptions and errors. Coordinate necessary corrective actions with sales representative, and issue 
-program instructions to external PDMA auditors in adherence with client business rules. 
-
-•Report compliance-related issues in timely manner to the client contact, internal regulatory and compliance department following FDA schedule
-
-•Supervise and monitor monthly signature audit process and develop analytical tools to bring compliance to the client
-
-•Work with client to develop metrics for trending purposes to detect possible drug diversion, significant loss of drug samples, and Salesforce training
-opportunities
-
-•Prepare/run client reports, ensure accuracy of regulatory/all reports, initiate internal quality events and provide necessary and timely follow-up
-
-•Create and participate in client business review presenation
-
-• Manage operations Sample Accountability (hand carry) operations and Direct-to-Practitioner (DTP) programs for 7 major pharmaceutical clients, RX, OTC, and devices
-
+• Create and update client training materials for field personnel as required and develop and update client BRD
+• Create and update Operational Work Instructions (OWIs)
+• Adherence to Corporate Integrity Agreements (CIA) and Statement of Work (SOW)
+• Generate and QC sample reconciliations for sales representatives
+• Coordinate 3rd party field audits for sales representatives and issue program instructions to external PDMA auditors
+• Work with the client(s) to develop metrics for trending purposes to detect possible diversion, significant loss
+• Manage Sample Accountability (hand carry) operations and Direct-to-Practitioner (DTP) programs supporting commercial operations and market access for sample distribution
 • Identify, pitched and implemented new program; estimated new potential revenue $153k
-
 • Analyze existing SQL queries for performance improvements
-
 • Provide timely scheduled management reporting
-
+• Participate in management of MDM system, monitor field requests, and home office requests
+• CRM / Salesforce and Veeva data mapping of rosters, target HCP, new NDC setup
+• First level support for field representatives
 • Investigate exceptions within Salesforce and Veeva/Veeva Vault
+
 
 <strong>Transaction Processing Associate II Jan 2022 - May 2022
 Conduent | Somerset, NJ</strong>
