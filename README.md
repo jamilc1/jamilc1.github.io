@@ -20,7 +20,7 @@ EXPERIENCE
 
 • Work with the client(s) to develop metrics for trending purposes to detect possible diversion, significant loss
 
-• Manage Sample Accountability (hand carry) operations and Direct-to-Practitioner (DTP) programs supporting commercial operations and market access for sample distribution
+• Manage Sample Accountability (hand carry) operations and Direct-to-Practitioner (DTP) programs
 
 • Identify, pitched and implemented new program; estimated new potential revenue $153k
 
@@ -30,7 +30,7 @@ EXPERIENCE
 
 • Participate in management of MDM system, monitor field requests, and home office requests
 
-• CRM / Salesforce and Veeva data mapping of rosters, target HCP, new NDC setup
+• Veeva data mapping of rosters, target HCP, new NDC setup
 
 • First level support for field representatives
 
